@@ -5,7 +5,7 @@ module.exports = class DemoServices {
     constructor() {
     }
 
-    // Render the views HTML-snippet
+    // Increment clicks
     clickService(requestData) {
         let clicks = requestData.clicks
         let responseData = { status: 'ok', clicks: clicks + 1 }
