@@ -1,0 +1,18 @@
+body {
+    background-color: #f2e9e9;
+    font-size:14px;
+    font-family: "Lucida Sans", sans-serif;
+    text-align: center;
+  
+}
+
+.demobutton {
+	text-align: center;
+	border-radius: 4px;
+	margin: 0px;
+	margin-right: 3px;
+	margin-left: 3px;
+	background-color: #5dc7ed;
+	width: 200px;
+}
+

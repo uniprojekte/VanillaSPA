@@ -1,0 +1,15 @@
+{
+  "name": "vanillaspa",
+  "version": "1.0.0",
+  "description": "VanillasSPA is s tiny SPA-Framework",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watchify": "watchify ./client/main.js -d -o ./public/bundle.js"
+  },
+  "keywords": [],
+  "author": "Ralf Peters",
+  "license": "MIT",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}
